@@ -27,7 +27,7 @@
 #### Get All Comptes
 
 ```http
-  POST /api/compte
+  GET /api/compte
 ```
 
 #### Create Operation
