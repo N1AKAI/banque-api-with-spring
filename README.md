@@ -63,7 +63,7 @@
 #### Get All Operations by Compte's Rib
 
 ```http
-  POST /api/opperation/rib/{rib}
+  GET /api/opperation/rib/{rib}
 ```
 
 | Parameter | Type     | Description                       |
@@ -84,6 +84,6 @@
 #### Get All Operations
 
 ```http
-  POST /api/opperation
+  GET /api/opperation
 ```
 
